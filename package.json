@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/g-sat/g.sat.git",
+  "homepage": "https://g-sat.github.io/g.sat",
+
   "scripts": {
     "dev": "vite",
     "start": "vite",
